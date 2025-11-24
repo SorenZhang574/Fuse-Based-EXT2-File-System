@@ -1,0 +1,3 @@
+/home/sorenzhang/projects/user-land-filesystem/fs/build/CMakeFiles/newfs.dir
+/home/sorenzhang/projects/user-land-filesystem/fs/build/CMakeFiles/edit_cache.dir
+/home/sorenzhang/projects/user-land-filesystem/fs/build/CMakeFiles/rebuild_cache.dir
